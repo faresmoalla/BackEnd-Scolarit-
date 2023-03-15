@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MbWmRz9qC9qDhE7H8oR4bOdXvP7eDkjHxLcLgHiWx6o=",
+  "Source": "Naxxum.Enlightenment.User.Api",
+  "BasePath": "_content/Naxxum.Enlightenment.User.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

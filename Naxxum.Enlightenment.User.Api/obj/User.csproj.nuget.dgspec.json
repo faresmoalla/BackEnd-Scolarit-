@@ -1,0 +1,347 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\User\\User.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\ApplicationUser\\Naxxum.Enlightenment.User.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\ApplicationUser\\Naxxum.Enlightenment.User.Application.csproj",
+        "projectName": "Naxxum.Enlightenment.User.Application",
+        "projectPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\ApplicationUser\\Naxxum.Enlightenment.User.Application.csproj",
+        "packagesPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\ApplicationUser\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\DomainUser\\Naxxum.Enlightenment.User.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\DomainUser\\Naxxum.Enlightenment.User.Domain.csproj",
+        "projectName": "Naxxum.Enlightenment.User.Domain",
+        "projectPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\DomainUser\\Naxxum.Enlightenment.User.Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\DomainUser\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.27.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\InfrastructureUser\\Naxxum.Enlightenment.User.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\InfrastructureUser\\Naxxum.Enlightenment.User.Infrastructure.csproj",
+        "projectName": "Naxxum.Enlightenment.User.Infrastructure",
+        "projectPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\InfrastructureUser\\Naxxum.Enlightenment.User.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\InfrastructureUser\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\ApplicationUser\\Naxxum.Enlightenment.User.Application.csproj": {
+                "projectPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\ApplicationUser\\Naxxum.Enlightenment.User.Application.csproj"
+              },
+              "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\DomainUser\\Naxxum.Enlightenment.User.Domain.csproj": {
+                "projectPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\DomainUser\\Naxxum.Enlightenment.User.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Negotiate": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\User\\User.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\User\\User.csproj",
+        "projectName": "User",
+        "projectPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\User\\User.csproj",
+        "packagesPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\User\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\DomainUser\\Naxxum.Enlightenment.User.Domain.csproj": {
+                "projectPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\DomainUser\\Naxxum.Enlightenment.User.Domain.csproj"
+              },
+              "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\InfrastructureUser\\Naxxum.Enlightenment.User.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\InfrastructureUser\\Naxxum.Enlightenment.User.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Negotiate": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

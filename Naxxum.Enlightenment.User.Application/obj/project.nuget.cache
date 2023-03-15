@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TlIQkDyPjsiEv/I8G0ly/mNvADU2+LKNnl5OaRu3/nKzBKj4vHyi+A9ArcHYdzabA+nlLEp3uIzZHNLSIBWkAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\Naxxum.Enlightenment.User.Application\\Naxxum.Enlightenment.User.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

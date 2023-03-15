@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Naxxum.Enlightenment.User.Api.props" />
+</Project>

@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44447",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Administrateur.DESKTOP-BMBSNE9\\Downloads\\CleanArchitecture-main\\src\\WebUI\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
